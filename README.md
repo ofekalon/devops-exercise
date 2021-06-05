@@ -1,7 +1,5 @@
-![ClimaCell](https://climacell.ussl.co/wp-content/uploads/2019/03/CC-logo-base-black-w_blue-icon-300.png "ClimaCell")
-
 # DevOps Exercise
-Welcome to ClimaCell!
+Welcome to our DevOps exsercise
 
 If you have not already applied, but are interested in joining our team, please see our current job openings here: https://www.climacell.co/careers/
 
